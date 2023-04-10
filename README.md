@@ -26,3 +26,5 @@ axios配置
 
 ### config
 一些配置属性
+
+chatgpt-web-production-7c39.up.railway.app
